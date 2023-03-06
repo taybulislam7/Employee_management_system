@@ -19,7 +19,7 @@ This is a full stack PHP Employee Management System Website.
 
 ## How to Run
 - Download the zip file and upzip it, the put it on the htdocs folder
-- Open `Xampp` and start the `Apache` & MySQL
+- Open `Xampp` and start the `Apache` & `MySQL`
 - Admin the mySQL
 - Create a database and named it "employeeigniter" here upload the database which you found on the database folder
 - now open a browser and run "http://localhost/EMS-CI/"
